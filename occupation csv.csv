@@ -1,0 +1,81 @@
+roll,Occupation,Trained Weapon,Trade Good
+1,Alchemist,Staff,"Oil, 1 flask"
+2,Orc Animal Trainer,Club,Dog
+3,Armorer,Hammer (as club),Iron Helmet
+4,Astrologer,Dagger,Spyglass
+5,Barber,Razor (as dagger),Scissors
+6,Boatswain,Cutlass,Whistle
+7,Orc Butcher,Cleaver (as Handaxe),Side of Beef
+8,Cabin Boy,Dart,Small bag of spices
+9,Goblin Cannon Loader,Linstock (as staff),Scissors
+10,Carpenter,Handaxe,"Iron Nails, 5 lbs"
+11,Cartographer,Dagger,Quill and Inkpot
+12,Chandler,Scissors (as dagger),"Candles, 20"
+13,Chest-Maker,Chisel (as dagger),Fine wood 10lbs
+14,Cook,Club,Large Pot
+15,Cooper,Crowbar (as club),Barrel
+16,Coxswain,Oar (as staff),Lantern
+17,Craftsman,Knife (as dagger),Metal files
+18-19,Deckhand,Blackjack,Sack
+20,Disgraced Captain,Rapier,Compass
+21,Diver,Knife (as dagger),Brass Helmet
+22-23,Dyer,Staff,"Fabric, 3 yards"
+24,Entertainer,Dart,Silk clothes
+25,Falconer,Dagger,Falcon
+26,Orc First Mate,Rapier,Photo of lover
+27-35,Fisherman,Spear,"Salted Fish, 10 lbs"
+36,Fortune-Teller,Dagger,Tarot deck
+37,Goblin Gambler,Club,Dice
+38,Geologist,Pick (as Handaxe),"Amythest, 5lbs"
+39,Glovemaker,Awl (as dagger),"Gloves, 4 pairs"
+40,Goblin Powder Monkey,Pocketknife (as dagger),"Packet of Gunpowder, 2lbs"
+41-42,Gunner,Ramrod (as staff),Box of Matches
+43,Haberdasher,Scissors (as dagger),"Fine suits, 3 sets"
+44,Harbor Pilot,Pole (as staff),Book
+45,Healer,Club,"Healing waters, 1 vial"
+46,Herald,Banner staff (as staff),Trumpet
+47,Helmsman,Log (as Club),"Rope, 100'"
+48,Herbalist,Club,"Herbs, 1lb."
+49,Historian,Quill (as dart),"Notebooks, 3"
+50,Orc Hunter,Shortbow,Lizard pelt
+51,Indentured Servant,Staff,Locket
+52,Interpreter,Arrow-gun,Wooden Idol
+53,Jeweler,Dagger,Gem worth 20gp
+54,Leatherworker,Skinning Knife (as dagger),"Leather hide, 3 yards"
+55,Locksmith,Dagger,Fine tools
+56-57,Siren Lookout,Sling,Spyglass
+58,Orc Master-at-Arms,Rapier,Hide Armor
+59,Medic,Club,Crutches
+60,Merchant,Dagger,"4 gp, 14sp, 27 cp"
+61,Moneylender,Cutlass,"5gp, 10 sp, 200 cp"
+62,Goblin Minstrel,Dagger,Ukulele
+63,Naturalist,Dagger,Glass Jar with lid
+64-65,Net-weaver,Marlinspike (as dagger),Net
+66,Orc Blacksmith,Hammer (as club),Steel tongs
+67,Orphan,Club,Rag doll
+68,Orc Prisoner's Guard,Cutlass,Leather Armor
+69,Quartermaster,Knife (as dagger),Ledger books
+70,Goblin Rat-Catcher,Club,Net
+71-73,Goblin Rigger,Belaying Pin (as Club),"Wood blocks, 3"
+74-75,Rope Maker,Knife (as dagger),"Rope, 100'"
+76-77,Sailmaker,Knife (as dagger),"Sailcloth, 2 yards"
+78,Orc Scavenger,Bone Knife (as dagger),"Twine, 100 yards"
+79,Scout,Walking stick (as Staff),"Rations, 5 days"
+80,Scribe,Dart,"Parchment, 10 sheets"
+81,Ship broker,Quill (as dart),Flask of Rum
+82,Shipwright's Apprentice,Hammer (as club),Toy Boat
+83,Signalman,Sling,String of 15 flags
+84,Siren Glassblower,Hammer (as club),"Glass beads, 50"
+85,Siren Navigator,Arrow-gun,Sextant
+86,Goblin Smuggler,Sling,Waterproof sack
+87,Specimen Hunter,Butterfly net (as staff),Gecko
+88,Spy,Dagger,cypher book
+89,Surgeon,Scalpel (as Dart),Bone saw
+90,Surveyor,Club,Plumb Bob
+91-93,Swab,Mop (as Staff),5 gallon bucket
+94,Trader,Cutlass,20 sp
+95-96,Orc Trapper,Sling,Fur pelt
+97,Treasurer,Flail,"Wood Chest, 500cp"
+98,Siren Weather Observer,Hammer (as club),Mercury Thermometer
+99,Whaler,Spear,"Whale meat, 5 lbs"
+100,Wizard's apprentice,Dagger,Black grimoire

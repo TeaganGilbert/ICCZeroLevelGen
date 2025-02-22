@@ -1,0 +1,29 @@
+Weapon,Damage,Range,Cost in Gold
+Arrow-Gun,1d6,75/150/225,30
+Battleaxe,1d10,-,7
+Battle-hook,1d6,-,6
+Blackjack,1d3,-,3
+Blowgun,1d3,20/40/60,6
+Club,1d4,-,3
+Crossbow,1d6,80/160/240,30
+Cutlass,1d6,-,7
+Dagger,1d4,10/20/30^,3
+Dart,1d4,20/40/60^,5 sp
+Flail,1d6,-,6
+Garrote,1d4,-,2
+Handaxe,1d6,10/20/30^,4
+Javelin,1d6,30/60/90^,1
+Lance,1d12,-,25
+Longbow,1d6,70/140/210,40
+Longsword,1d8,-,10
+Mace,1d6,-,5
+Net,N/A,5/10/15,8
+Polearm,1d10,-,7
+Rapier,2d3,-,9
+Shortbow,1d6,50/100/150,25
+Sling,1d4,40/80/160^,2
+Spear,1d8,-,3
+Staff,1d4,-,5 sp
+Two-handed sword,1d10,-,15
+Warhammer,1d8,-,5
+Whip,1d6,-,3
